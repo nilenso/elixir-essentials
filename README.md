@@ -1,2 +1,2 @@
-# elixir-essentials
-Adds build-essentials and git to the official Elixir v1.6 docker image
+# phoenix-essentials
+Adds build-essentials, git and nodejs to the official Elixir v1.6 docker image
