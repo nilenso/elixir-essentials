@@ -1,4 +1,4 @@
-FROM abhin4v/elixir-essentials:1.6-slim
+FROM nilenso/elixir-essentials:1.6.5-slim
 MAINTAINER Abhinav Sarkar <abhinav@abhinavsarkar.net>
 RUN apt-get update && \
     apt-get -y install curl gnupg && \
